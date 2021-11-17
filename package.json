@@ -1,0 +1,14 @@
+{
+  "name": "chalknbot",
+  "version": "1.0.0",
+  "description": "Learning about Node packages",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JE",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
